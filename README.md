@@ -31,9 +31,13 @@ This Twitter Scraper is built using Python 3.x and the `twikit` library to fetch
 ## File Structure
 ```sh
 📂 twitter-scraper
+│─ 📂 asset
+   │─ tweets_with_sentiment.csv
 │─ 📂 scr
    │─ main.py
    │─ config.ini
+   │─ sentimen.py
+   │─ tren.py
 │─ LICENSE 
 │─ README.md
 ```
